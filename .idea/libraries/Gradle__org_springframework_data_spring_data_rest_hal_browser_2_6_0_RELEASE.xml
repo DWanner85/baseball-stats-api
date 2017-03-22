@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.data:spring-data-rest-hal-browser:2.6.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-rest-hal-browser/2.6.0.RELEASE/c47f81ec1c0638ec00384bfdb5eab8f1d2661cf1/spring-data-rest-hal-browser-2.6.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-rest-hal-browser/2.6.0.RELEASE/a535c033b960586d7d2c71f1ebb20c02e9fd528d/spring-data-rest-hal-browser-2.6.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
